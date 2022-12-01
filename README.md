@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebaxj
-- 👀 I’m interested in Human-Computer Interaction, Systems, and Fullstack Engineering
-- 🌱 I’m currently learning C/C++, JavaScript/TypeScript, Go, and Python
+- 👀 I’m interested in Human-Computer Interaction, Systems, and Microservice Engineering
+- 🌱 Proficient in C/C++, JavaScript/TypeScript, Java, and Python
 - 📫 How to reach me sebaxj@stanford.edu
 
 ![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png "http://www.github.com/sebaxj")
