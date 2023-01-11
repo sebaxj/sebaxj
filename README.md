@@ -1,6 +1,7 @@
 <!---
 sebaxj/sebaxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Icons are from: https://github.com/Ileriayo/markdown-badges
 --->
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
@@ -50,3 +51,22 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <hr>
+
+<h2 align="center"> 💻 Top Repositories</h2>
+<p align="center">
+  <a href="https://github.com/sebaxj/baremetal-raspberrypi-doc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=baremetal-raspberrypi-doc&theme=buefy" />
+  </a>
+  <a href="https://github.com/sebaxj/project-031421">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&project-031421&theme=buefy" />
+  </a><br />
+  <a href="https://github.com/sebaxj/Jumper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&Jumper&theme=buefy" />
+  </a>
+  <a href="https://github.com/sebaxj/Wavelength">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&Wavelength&theme=buefy" />
+  </a><br />
+  <a href="https://github.com/sebaxj/music256a">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&music256a&theme=buefy" />
+  </a>
+</p>
