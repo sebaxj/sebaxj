@@ -58,15 +58,15 @@ Icons are from: https://github.com/Ileriayo/markdown-badges
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=baremetal-raspberrypi-doc&theme=buefy" />
   </a>
   <a href="https://github.com/sebaxj/project-031421">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&project-031421&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=project-031421&theme=buefy" />
   </a><br />
   <a href="https://github.com/sebaxj/Jumper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&Jumper&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=Jumper&theme=buefy" />
   </a>
   <a href="https://github.com/sebaxj/Wavelength">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&Wavelength&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=Wavelength&theme=buefy" />
   </a><br />
   <a href="https://github.com/sebaxj/music256a">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&music256a&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaxj&repo=music256a&theme=buefy" />
   </a>
 </p>
