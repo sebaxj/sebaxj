@@ -2,6 +2,7 @@
 sebaxj/sebaxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Twitter Follow](https://img.shields.io/twitter/follow/sebaxjames?color=blue&style=for-the-badge)
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
