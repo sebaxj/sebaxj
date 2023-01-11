@@ -46,9 +46,9 @@ Icons are from: https://github.com/Ileriayo/markdown-badges
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_target" href="https://www.linkedin.com/in/sebaxj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_target" href="https://twitter.com/sebaxjames"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><br />
-  <a target="_target" href="https://sebaxj.github.io/">View my website here</a>
+  <a target="_blank" href="https://www.linkedin.com/in/sebaxj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/sebaxjames"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><br />
+  <a target="_blank" href="https://sebaxj.github.io/">View my website here</a>
 </p>
 
 <hr>
