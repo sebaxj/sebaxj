@@ -39,7 +39,6 @@ Icons are from: https://github.com/Ileriayo/markdown-badges
 <h2 align="center"> 💡 Technologies I am Learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
